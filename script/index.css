@@ -1,0 +1,21 @@
+.btn {
+  width: 150px;
+  height: 40px;
+  background-color: aquamarine;
+  border-radius: 10px;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: blue;
+}
+
+.btn span {
+  font-size: 22px;
+  font-weight: 700;
+}
